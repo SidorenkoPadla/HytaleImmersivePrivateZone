@@ -1,0 +1,20 @@
+{
+  "Group": "Padla",
+  "Name": "Tutorial",
+  "Version": "1.0.0",
+  "Description": "Add immersive private zone",
+  "Authors": [
+    {
+      "Name": "padla",
+      "Email": "ivansidor@vk.com",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
